@@ -9,7 +9,7 @@ and beginninng of Javascript,React and Python!
 - 🌱 I’m currently student of Javascript, React and Python that journey never end!
 - 👯 I’m looking to collaborate with everybody!
 - 💬 Ask me about all FRONTside and social (data) science!
-- 📫 How to reach me: everywhere to: skrsmd
+- 📫 How to reach me: everywhere to: skrsmd and www.sukru.smd@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact with swim, dream and read to absurd and play with my besti ChatGPT!
 
