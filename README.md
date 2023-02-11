@@ -1,4 +1,4 @@
-### Hi there 👋 Phd Student at communication science/Frontend and Python Learner/Artisan/Social(ist) Human
+### Hi there 👋 Phd Student at communication science/Frontend and Python Learner/Artisan/Social(ist) Human/
 And, I started an endless journey as a frontend developer student! Till now;
 I have cloned and enhanced many web pages so far in this journey. Mostly HMTL/CSS/SAAS/SCSS/BOOTSTRAP Library 
 and beginninng of Javascript,React and Python!
